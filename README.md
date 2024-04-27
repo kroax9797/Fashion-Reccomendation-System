@@ -4,6 +4,7 @@
 Clone the repo using : 
   git clone https://github.com/kroax9797/Fashion-Reccomendation-System.git
   cd Fashion-Reccomendation-System
+  pip install -r requirements.txt
 
 ## Usage 
 Enter the below command to run the localhost website . 
